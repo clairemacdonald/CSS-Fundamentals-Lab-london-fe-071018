@@ -13,7 +13,9 @@ text-align: center;
     text-align: center;
   }
   
-   
+  section{
+    align-content: center;
+  } 
  
  
  a{
