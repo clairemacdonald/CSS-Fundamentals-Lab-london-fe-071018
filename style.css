@@ -13,15 +13,32 @@ text-align: center;
     text-align: center;
   }
   
- #figure{
-   align-content: center;
    
- }
+ 
  
  a{
    padding-left: 10px;
    padding-right: 10px;
-   background-color: #367;
+   background-color: lightgray;
  }
  
+img {
+  align-content: center;
+  padding-left: 200px;
+ }
+ 
+ figcaption{
+   font-size: 10px;
+   text-align: center;
+ }
+
+#featured-property.p{
+  width: 800px;
+  text-align: center;
+  
+}
+
+#details{
+  display: block;
+}
  
