@@ -22,11 +22,14 @@ text-align: center;
    background-color: lightgray;
  }
  
-img.src {
+img {
   align-content: center;
  
  }
  
+ src{
+   align-content: center;
+ }
  figcaption{
    font-size: 10px;
    text-align: center;
